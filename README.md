@@ -25,9 +25,15 @@ After the external packages are downloaded the use the following commands in git
 
 #### `node app concert-this <artist or band name>`
 
+![concert-this](images/image1.png)
+
 #### `node app spotify-this-song <song title>`
 
+![concert-this](images/image2.png)
+
 #### `node app movie-this <movie title>`
+
+![concert-this](images/image3.png)
 
 #### `node app do-what-it-says`
 
