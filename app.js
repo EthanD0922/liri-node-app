@@ -65,7 +65,6 @@ function song(){
 function movie(){
         input = input || "Mr. Nobody"
         var queryUrl = "http://www.omdbapi.com/?t=" + input + "&y=&plot=short&apikey=trilogy"
-    console.log(queryUrl)
         axios.get(queryUrl).then(function(res){
             var movie = res.data
             console.log(
