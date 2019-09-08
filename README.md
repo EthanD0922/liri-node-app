@@ -29,11 +29,13 @@ After the external packages are downloaded the use the following commands in git
 
 #### `node app spotify-this-song <song title>`
 
-![concert-this](images/image2.png)
+![spotify-this](images/image2.png)
 
 #### `node app movie-this <movie title>`
 
-![concert-this](images/image3.png)
+![movie-this](images/image3.png)
 
 #### `node app do-what-it-says`
+
+![do-what](images/image4.png)
 
